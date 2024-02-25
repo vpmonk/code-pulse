@@ -1,0 +1,33 @@
+body{
+    background-color: #333A73;
+}
+#maincont{
+    text-align: center;
+    font-size: 4em;
+    color: #FBA834;
+    font-family: 'Comic Sans MS', cursive;
+}
+#count{
+   display: block;
+   text-align: center;
+   font-size: 10em;
+   font-family: 'Comic Sans MS', cursive;
+   margin-top: -5%;
+   color: #a5d7e9;
+}
+#btnctn{
+    text-align: center;
+    font-size: 3em;
+    
+}
+.btn{
+    padding: 20px 20px;
+    border-radius: 6px;
+    background-color: #d2e4ff;
+    color: #000000;
+    font-size: xx-large;
+    border: none;
+}
+.btn:hover {
+    background-color: #0062ff
+}
